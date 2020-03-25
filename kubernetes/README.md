@@ -177,7 +177,7 @@ Spec:
   Rdzv Endpoint:  etcd-service:2379
   Replica Specs:
     Worker:
-      Replicas:        3
+      Replicas:        2
       Restart Policy:  ExitCode
       Template:
         Metadata:
